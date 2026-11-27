@@ -1,0 +1,1 @@
+This repository contains 15 Machine Learning projects developed using Python. It includes Jupyter Notebook implementations and complete project documentation covering objectives, datasets, code, outputs, and conclusions.
